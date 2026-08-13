@@ -1,0 +1,164 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/fhs/acme-lsp",
+          "description": "Language Server Protocol tools for the acme text editor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-21T18:36:01Z",
+            "owner": "9fans",
+            "repo": "acme-lsp",
+            "stars": 231
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/sminez/acme-corp",
+          "description": "Utilities and extension programs for the acme text editor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-01-08T11:09:22Z",
+            "owner": "sminez",
+            "repo": "acme-corp",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/ChristopherSegale/match-paren",
+          "description": "matches opening and closing parentheses",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2019-03-06T23:45:51Z",
+            "owner": "ChristopherSegale",
+            "repo": "match-paren",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/mkhl/cmd/tree/master/acme/acmeeval",
+          "description": "eval an acme command from a script",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2022-07-27T07:11:03Z",
+            "owner": "mkhl",
+            "repo": "cmd",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/mkmik/arepa",
+          "description": "Waits until any file belonging to the current project and required by the Go package in the current directory changes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-01-28T17:30:02Z",
+            "owner": "mkmik",
+            "repo": "arepa",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/mkmik/acmik",
+          "description": "A collection of Acme scripts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-12-01T11:42:31Z",
+            "owner": "mkmik",
+            "repo": "acmik",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/rogpeppe/apipe",
+          "description": "Pipes the contents of the current acme window through a command applying minimal changes to the body.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-29T10:39:02Z",
+            "owner": "rogpeppe",
+            "repo": "apipe",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/rogpeppe/godef",
+          "description": "Print where symbols are defined in Go source code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-09-18T16:54:20Z",
+            "owner": "rogpeppe",
+            "repo": "godef",
+            "stars": 674
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/davidrjenni/A",
+          "description": "Go tools for acme",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2020-08-15T15:36:25Z",
+            "owner": "davidrjenni",
+            "repo": "A",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/mkmik/waigo",
+          "description": "Waits until any file belonging to the current project and required by the Go package in the current directory changes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-01-28T17:30:02Z",
+            "owner": "mkmik",
+            "repo": "waigo",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Go"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T14:34:15.275Z",
+    "original_repository": "mkmik/awesome-acme",
+    "original_repository_sha": "887cf50451928e1749e7950d682a57d77d89d8cd",
+    "enhanced_repository": "enhansome/enhansome-acme",
+    "enhanced_repository_description": null,
+    "title": "Awesome Acme with stars"
+  }
+}
