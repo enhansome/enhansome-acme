@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160107848,
             "language": "Go",
             "last_commit": "2026-07-21T18:36:01Z",
             "owner": "9fans",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156778923,
             "language": "Go",
             "last_commit": "2022-01-08T11:09:22Z",
             "owner": "sminez",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 173022981,
             "language": "C",
             "last_commit": "2019-03-06T23:45:51Z",
             "owner": "ChristopherSegale",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 28833723,
             "language": "Go",
             "last_commit": "2022-07-27T07:11:03Z",
             "owner": "mkhl",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160557875,
             "language": "Go",
             "last_commit": "2025-01-28T17:30:02Z",
             "owner": "mkmik",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 224699973,
             "language": "Shell",
             "last_commit": "2023-12-01T11:42:31Z",
             "owner": "mkmik",
@@ -94,68 +100,110 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146902807,
             "language": "Go",
             "last_commit": "2026-05-29T10:39:02Z",
             "owner": "rogpeppe",
             "repo": "apipe",
             "stars": 3
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/rogpeppe/godef",
+              "description": "Print where symbols are defined in Go source code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30069126,
+                "language": "Go",
+                "last_commit": "2025-09-18T16:54:20Z",
+                "owner": "rogpeppe",
+                "repo": "godef",
+                "stars": 674
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/davidrjenni/A",
+              "description": "Go tools for acme",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 58579328,
+                "language": "Go",
+                "last_commit": "2020-08-15T15:36:25Z",
+                "owner": "davidrjenni",
+                "repo": "A",
+                "stars": 76
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/mkmik/waigo",
+              "description": "Waits until any file belonging to the current project and required by the Go package in the current directory changes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 160543846,
+                "language": "Go",
+                "last_commit": "2025-01-28T17:30:02Z",
+                "owner": "mkmik",
+                "repo": "waigo",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Go"
         }
       ],
       "title": "Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/rogpeppe/godef",
-          "description": "Print where symbols are defined in Go source code",
+          "title": "https://github.com/sirnewton01/ghfs",
+          "description": "GitHub filesystem",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 143651774,
             "language": "Go",
-            "last_commit": "2025-09-18T16:54:20Z",
-            "owner": "rogpeppe",
-            "repo": "godef",
-            "stars": 674
+            "last_commit": "2020-06-13T12:46:40Z",
+            "owner": "sirnewton01",
+            "repo": "ghfs",
+            "stars": 79
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/davidrjenni/A",
-          "description": "Go tools for acme",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2020-08-15T15:36:25Z",
-            "owner": "davidrjenni",
-            "repo": "A",
-            "stars": 76
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/mkmik/waigo",
-          "description": "Waits until any file belonging to the current project and required by the Go package in the current directory changes.",
+          "title": "https://github.com/hdonnay/Jira",
+          "description": "an acme based client for jira.",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62150635,
             "language": "Go",
-            "last_commit": "2025-01-28T17:30:02Z",
-            "owner": "mkmik",
-            "repo": "waigo",
-            "stars": 5
+            "last_commit": "2022-06-02T18:08:09Z",
+            "owner": "hdonnay",
+            "repo": "Jira",
+            "stars": 6
           }
         }
       ],
-      "title": "Go"
+      "title": "Apps / Integrations"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T13:59:06.300Z",
+    "last_updated": "2026-08-19T12:16:00.080Z",
     "original_repository": "mkmik/awesome-acme",
+    "original_repository_id": 192303938,
     "original_repository_sha": "887cf50451928e1749e7950d682a57d77d89d8cd",
     "enhanced_repository": "enhansome/enhansome-acme",
     "enhanced_repository_description": null,
