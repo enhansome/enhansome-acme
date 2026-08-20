@@ -25,7 +25,7 @@ A curated list of resources for the plan9 acme editor.
 
 ### Clojure
 
-* <https://github.com/mkmik/acmeclj> ⭐ 12 | 🐛 7 | 🌐 Go | 📅 2026-07-21: Clojure "IDE" for acme, supports nREPL
+* <https://github.com/mkmik/acmeclj> ⭐ 12 | 🐛 7 | 🌐 Go | 📅 2026-08-20: Clojure "IDE" for acme, supports nREPL
 
 # Apps / Integrations
 
@@ -43,4 +43,4 @@ A curated list of resources for the plan9 acme editor.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
