@@ -159,6 +159,50 @@
           "description": null,
           "node_type": "group",
           "title": "Go"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/mjibson/acre",
+              "description": "a langserver client for acme in Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 239174762,
+                "language": "Rust",
+                "last_commit": "2022-10-15T17:27:26Z",
+                "owner": "madelynnblue",
+                "repo": "acre",
+                "stars": 40
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Rust"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/mkmik/acmeclj",
+              "description": "Clojure \"IDE\" for acme, supports nREPL",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 213971131,
+                "language": "Go",
+                "last_commit": "2026-08-20T06:03:12Z",
+                "owner": "mkmik",
+                "repo": "acmeclj",
+                "stars": 12
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Clojure"
         }
       ],
       "title": "Tools"
@@ -195,13 +239,57 @@
             "repo": "Jira",
             "stars": 6
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/s-urbaniak/acme",
+              "description": "support higher level plugins for the acme editor.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33411005,
+                "language": "Go",
+                "last_commit": "2015-08-27T12:50:32Z",
+                "owner": "s-urbaniak",
+                "repo": "acme",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/evbogdanov/acme",
+              "description": "A collection of Acme notes and scripts",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80131871,
+                "language": "Shell",
+                "last_commit": "2022-04-23T14:46:16Z",
+                "owner": "evbogdanov",
+                "repo": "acme",
+                "stars": 309
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Notes"
         }
       ],
       "title": "Apps / Integrations"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T13:47:47.414Z",
+    "last_updated": "2026-08-24T14:26:56.558Z",
     "original_repository": "mkmik/awesome-acme",
     "original_repository_id": 192303938,
     "original_repository_sha": "887cf50451928e1749e7950d682a57d77d89d8cd",
