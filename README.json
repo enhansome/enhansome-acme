@@ -5,7 +5,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/fhs/acme-lsp",
+          "title": "9fans/acme-lsp",
           "description": "Language Server Protocol tools for the acme text editor",
           "children": [],
           "repo_info": {
@@ -20,7 +20,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/sminez/acme-corp",
+          "title": "sminez/acme-corp",
           "description": "Utilities and extension programs for the acme text editor",
           "children": [],
           "repo_info": {
@@ -35,7 +35,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ChristopherSegale/match-paren",
+          "title": "ChristopherSegale/match-paren",
           "description": "matches opening and closing parentheses",
           "children": [],
           "repo_info": {
@@ -50,7 +50,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/mkhl/cmd/tree/master/acme/acmeeval",
+          "title": "mkhl/cmd",
           "description": "eval an acme command from a script",
           "children": [],
           "repo_info": {
@@ -65,7 +65,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/mkmik/arepa",
+          "title": "mkmik/arepa",
           "description": "Waits until any file belonging to the current project and required by the Go package in the current directory changes.",
           "children": [],
           "repo_info": {
@@ -80,7 +80,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/mkmik/acmik",
+          "title": "mkmik/acmik",
           "description": "A collection of Acme scripts",
           "children": [],
           "repo_info": {
@@ -95,7 +95,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/rogpeppe/apipe",
+          "title": "rogpeppe/apipe",
           "description": "Pipes the contents of the current acme window through a command applying minimal changes to the body.",
           "children": [],
           "repo_info": {
@@ -112,14 +112,14 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/rogpeppe/godef",
+              "title": "rogpeppe/godef",
               "description": "Print where symbols are defined in Go source code",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 30069126,
                 "language": "Go",
-                "last_commit": "2025-09-18T16:54:20Z",
+                "last_commit": "2026-08-24T18:44:00Z",
                 "owner": "rogpeppe",
                 "repo": "godef",
                 "stars": 674
@@ -127,7 +127,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/davidrjenni/A",
+              "title": "davidrjenni/A",
               "description": "Go tools for acme",
               "children": [],
               "repo_info": {
@@ -142,7 +142,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/mkmik/waigo",
+              "title": "mkmik/waigo",
               "description": "Waits until any file belonging to the current project and required by the Go package in the current directory changes.",
               "children": [],
               "repo_info": {
@@ -164,7 +164,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/mjibson/acre",
+              "title": "madelynnblue/acre",
               "description": "a langserver client for acme in Rust.",
               "children": [],
               "repo_info": {
@@ -186,7 +186,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/mkmik/acmeclj",
+              "title": "mkmik/acmeclj",
               "description": "Clojure \"IDE\" for acme, supports nREPL",
               "children": [],
               "repo_info": {
@@ -212,7 +212,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/sirnewton01/ghfs",
+          "title": "sirnewton01/ghfs",
           "description": "GitHub filesystem",
           "children": [],
           "repo_info": {
@@ -227,7 +227,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/hdonnay/Jira",
+          "title": "hdonnay/Jira",
           "description": "an acme based client for jira.",
           "children": [],
           "repo_info": {
@@ -244,7 +244,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/s-urbaniak/acme",
+              "title": "s-urbaniak/acme",
               "description": "support higher level plugins for the acme editor.",
               "children": [],
               "repo_info": {
@@ -266,7 +266,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/evbogdanov/acme",
+              "title": "evbogdanov/acme",
               "description": "A collection of Acme notes and scripts",
               "children": [],
               "repo_info": {
@@ -289,7 +289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:07:30.755Z",
+    "last_updated": "2026-08-25T05:17:47.703Z",
     "original_repository": "mkmik/awesome-acme",
     "original_repository_id": 192303938,
     "original_repository_sha": "887cf50451928e1749e7950d682a57d77d89d8cd",
