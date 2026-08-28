@@ -16,7 +16,8 @@
             "owner": "9fans",
             "repo": "acme-lsp",
             "stars": 232
-          }
+          },
+          "first_seen": "2026-08-28T23:04:03.733Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "sminez",
             "repo": "acme-corp",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T23:04:03.733Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "ChristopherSegale",
             "repo": "match-paren",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T23:04:03.733Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "mkhl",
             "repo": "cmd",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T23:04:03.733Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "mkmik",
             "repo": "arepa",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T23:04:03.733Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "mkmik",
             "repo": "acmik",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T23:04:03.733Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "rogpeppe",
             "repo": "apipe",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T23:04:03.733Z"
         },
         {
           "children": [
@@ -123,7 +130,8 @@
                 "owner": "rogpeppe",
                 "repo": "godef",
                 "stars": 674
-              }
+              },
+              "first_seen": "2026-08-28T23:04:03.733Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "davidrjenni",
                 "repo": "A",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-28T23:04:03.733Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "mkmik",
                 "repo": "waigo",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:04:03.733Z"
             }
           ],
           "description": null,
@@ -175,7 +185,8 @@
                 "owner": "madelynnblue",
                 "repo": "acre",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T23:04:03.733Z"
             }
           ],
           "description": null,
@@ -197,7 +208,8 @@
                 "owner": "mkmik",
                 "repo": "acmeclj",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T23:04:03.733Z"
             }
           ],
           "description": null,
@@ -223,7 +235,8 @@
             "owner": "sirnewton01",
             "repo": "ghfs",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-28T23:04:03.733Z"
         },
         {
           "node_type": "item",
@@ -238,7 +251,8 @@
             "owner": "hdonnay",
             "repo": "Jira",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T23:04:03.733Z"
         },
         {
           "children": [
@@ -255,7 +269,8 @@
                 "owner": "s-urbaniak",
                 "repo": "acme",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:04:03.733Z"
             }
           ],
           "description": null,
@@ -277,7 +292,8 @@
                 "owner": "evbogdanov",
                 "repo": "acme",
                 "stars": 309
-              }
+              },
+              "first_seen": "2026-08-28T23:04:03.733Z"
             }
           ],
           "description": null,
@@ -289,7 +305,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:58:38.132Z",
+    "last_updated": "2026-08-28T23:04:03.733Z",
     "original_repository_info": {
       "archived": false,
       "id": 192303938,
