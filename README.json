@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Language Server Protocol tools for the acme text editor",
+            "homepage": null,
             "id": 160107848,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-21T18:36:01Z",
+            "open_issues": 17,
             "owner": "9fans",
             "repo": "acme-lsp",
-            "stars": 232
+            "stars": 232,
+            "topics": [
+              "acme-text-editor",
+              "golang",
+              "language-server-protocol",
+              "plan9port"
+            ]
           },
           "first_seen": "2026-08-28T23:04:03.733Z"
         },
@@ -26,12 +36,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Utilities and extension programs for the acme text editor",
+            "homepage": null,
             "id": 156778923,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2022-01-08T11:09:22Z",
+            "open_issues": 0,
             "owner": "sminez",
             "repo": "acme-corp",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "acme",
+              "plan9",
+              "plan9port",
+              "text-editor",
+              "tool",
+              "toolkit"
+            ]
           },
           "first_seen": "2026-08-28T23:04:03.733Z"
         },
@@ -42,12 +64,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 173022981,
             "language": "C",
+            "license": null,
             "last_commit": "2019-03-06T23:45:51Z",
+            "open_issues": 0,
             "owner": "ChristopherSegale",
             "repo": "match-paren",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:04:03.733Z"
         },
@@ -58,12 +85,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 28833723,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2022-07-27T07:11:03Z",
+            "open_issues": 0,
             "owner": "mkhl",
             "repo": "cmd",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:04:03.733Z"
         },
@@ -74,12 +106,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Small helper for the acme editor that re-runs a command every time another (trigger) command exits",
+            "homepage": null,
             "id": 160557875,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-28T17:30:02Z",
+            "open_issues": 3,
             "owner": "mkmik",
             "repo": "arepa",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "acme",
+              "acme-editor",
+              "go",
+              "plan9"
+            ]
           },
           "first_seen": "2026-08-28T23:04:03.733Z"
         },
@@ -90,12 +132,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of scripts I use with the Acme editor / IDE",
+            "homepage": null,
             "id": 224699973,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2023-12-01T11:42:31Z",
+            "open_issues": 0,
             "owner": "mkmik",
             "repo": "acmik",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "acme-editor"
+            ]
           },
           "first_seen": "2026-08-28T23:04:03.733Z"
         },
@@ -106,12 +155,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "pipe acme window contents through a command",
+            "homepage": null,
             "id": 146902807,
             "language": "Go",
+            "license": null,
             "last_commit": "2026-05-29T10:39:02Z",
+            "open_issues": 2,
             "owner": "rogpeppe",
             "repo": "apipe",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:04:03.733Z"
         },
@@ -124,12 +178,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Print where symbols are defined in Go source code",
+                "homepage": null,
                 "id": 30069126,
                 "language": "Go",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-24T18:44:00Z",
+                "open_issues": 50,
                 "owner": "rogpeppe",
                 "repo": "godef",
-                "stars": 674
+                "stars": 674,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:04:03.733Z"
             },
@@ -140,12 +199,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A - Go tools for Acme.",
+                "homepage": null,
                 "id": 58579328,
                 "language": "Go",
+                "license": "BSD-2-Clause",
                 "last_commit": "2020-08-15T15:36:25Z",
+                "open_issues": 1,
                 "owner": "davidrjenni",
                 "repo": "A",
-                "stars": 76
+                "stars": 76,
+                "topics": [
+                  "acme",
+                  "go",
+                  "golang",
+                  "tool"
+                ]
               },
               "first_seen": "2026-08-28T23:04:03.733Z"
             },
@@ -156,12 +225,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Waits until any file belonging to the current project and required by the Go package in the current directory changes.",
+                "homepage": null,
                 "id": 160543846,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2025-01-28T17:30:02Z",
+                "open_issues": 1,
                 "owner": "mkmik",
                 "repo": "waigo",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "acme",
+                  "acme-editor",
+                  "go",
+                  "plan9"
+                ]
               },
               "first_seen": "2026-08-28T23:04:03.733Z"
             }
@@ -179,12 +258,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "langserver client for acme in rust",
+                "homepage": null,
                 "id": 239174762,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2022-10-15T17:27:26Z",
+                "open_issues": 3,
                 "owner": "madelynnblue",
                 "repo": "acre",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:04:03.733Z"
             }
@@ -202,12 +286,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Clojure IDE for the Acme text editor",
+                "homepage": null,
                 "id": 213971131,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-20T06:03:12Z",
+                "open_issues": 7,
                 "owner": "mkmik",
                 "repo": "acmeclj",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "acme-editor",
+                  "clojure-ide"
+                ]
               },
               "first_seen": "2026-08-28T23:04:03.733Z"
             }
@@ -229,12 +321,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "9p GitHub filesystem written in Go for use with Plan 9/p9p",
+            "homepage": null,
             "id": 143651774,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2020-06-13T12:46:40Z",
+            "open_issues": 12,
             "owner": "sirnewton01",
             "repo": "ghfs",
-            "stars": 79
+            "stars": 79,
+            "topics": [
+              "github",
+              "golang",
+              "plan9",
+              "plan9port",
+              "rest"
+            ]
           },
           "first_seen": "2026-08-28T23:04:03.733Z"
         },
@@ -245,12 +348,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "acme based client for JIRA",
+            "homepage": null,
             "id": 62150635,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-06-02T18:08:09Z",
+            "open_issues": 0,
             "owner": "hdonnay",
             "repo": "Jira",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "acme",
+              "editor",
+              "jira",
+              "plan9port"
+            ]
           },
           "first_seen": "2026-08-28T23:04:03.733Z"
         },
@@ -263,12 +376,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 33411005,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2015-08-27T12:50:32Z",
+                "open_issues": 0,
                 "owner": "s-urbaniak",
                 "repo": "acme",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:04:03.733Z"
             }
@@ -286,12 +404,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My collection of Acme notes and scripts",
+                "homepage": null,
                 "id": 80131871,
                 "language": "Shell",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-04-23T14:46:16Z",
+                "open_issues": 0,
                 "owner": "evbogdanov",
                 "repo": "acme",
-                "stars": 309
+                "stars": 309,
+                "topics": [
+                  "acme",
+                  "editor",
+                  "plan9"
+                ]
               },
               "first_seen": "2026-08-28T23:04:03.733Z"
             }
@@ -305,15 +432,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:04:03.733Z",
+    "last_updated": "2026-08-29T05:03:06.828Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of resources for the plan9 acme editor",
+      "homepage": null,
       "id": 192303938,
       "language": null,
+      "license": "Apache-2.0",
       "last_commit": "2024-04-01T20:30:45Z",
+      "open_issues": 0,
       "owner": "mkmik",
       "repo": "awesome-acme",
-      "stars": 66
+      "stars": 66,
+      "topics": [
+        "acme",
+        "acme-editor",
+        "awesome",
+        "awesome-list",
+        "plan9",
+        "plan9port"
+      ]
     },
     "original_repository_sha": "887cf50451928e1749e7950d682a57d77d89d8cd",
     "enhanced_repository": "enhansome/enhansome-acme",
