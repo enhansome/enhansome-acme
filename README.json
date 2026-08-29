@@ -19,7 +19,7 @@
             "open_issues": 17,
             "owner": "9fans",
             "repo": "acme-lsp",
-            "stars": 232,
+            "stars": 231,
             "topics": [
               "acme-text-editor",
               "golang",
@@ -208,7 +208,7 @@
                 "open_issues": 1,
                 "owner": "davidrjenni",
                 "repo": "A",
-                "stars": 76,
+                "stars": 77,
                 "topics": [
                   "acme",
                   "go",
@@ -432,7 +432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:03:06.828Z",
+    "last_updated": "2026-08-29T17:10:26.864Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for the plan9 acme editor",
