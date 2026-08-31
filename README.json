@@ -330,7 +330,7 @@
             "open_issues": 12,
             "owner": "sirnewton01",
             "repo": "ghfs",
-            "stars": 79,
+            "stars": 80,
             "topics": [
               "github",
               "golang",
@@ -432,7 +432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T17:32:57.740Z",
+    "last_updated": "2026-08-31T19:31:26.366Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for the plan9 acme editor",

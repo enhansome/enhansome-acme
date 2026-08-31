@@ -29,7 +29,7 @@ A curated list of resources for the plan9 acme editor.
 
 # Apps / Integrations
 
-* <https://github.com/sirnewton01/ghfs> ⭐ 79 | 🐛 12 | 🌐 Go | 📅 2020-06-13: GitHub filesystem
+* <https://github.com/sirnewton01/ghfs> ⭐ 80 | 🐛 12 | 🌐 Go | 📅 2020-06-13: GitHub filesystem
 * <https://github.com/hdonnay/Jira> ⭐ 6 | 🐛 0 | 🌐 Go | 📅 2022-06-02: an acme based client for jira.
 * <https://rsc.io/github/issue>: a client for reading and updating issues in a GitHub project issue tracker.
 
@@ -43,4 +43,4 @@ A curated list of resources for the plan9 acme editor.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
