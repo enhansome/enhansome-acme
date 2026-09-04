@@ -184,7 +184,7 @@
                 "language": "Go",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-08-24T18:44:00Z",
-                "open_issues": 50,
+                "open_issues": 51,
                 "owner": "rogpeppe",
                 "repo": "godef",
                 "stars": 674,
@@ -432,7 +432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T17:03:48.828Z",
+    "last_updated": "2026-09-04T16:53:08.146Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for the plan9 acme editor",
