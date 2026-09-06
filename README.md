@@ -5,7 +5,7 @@ A curated list of resources for the plan9 acme editor.
 ## Tools
 
 * <https://github.com/fhs/acme-lsp> ⭐ 231 | 🐛 17 | 🌐 Go | 📅 2026-07-21: Language Server Protocol tools for the acme text editor
-* <https://github.com/sminez/acme-corp> ⭐ 42 | 🐛 0 | 🌐 Go | 📅 2022-01-08: Utilities and extension programs for the acme text editor
+* <https://github.com/sminez/acme-corp> ⭐ 43 | 🐛 0 | 🌐 Go | 📅 2022-01-08: Utilities and extension programs for the acme text editor
 * <https://github.com/ChristopherSegale/match-paren> ⭐ 10 | 🐛 0 | 🌐 C | 📅 2019-03-06: matches opening and closing parentheses
 * <https://github.com/mkhl/cmd/tree/master/acme/acmeeval> ⚠️ Archived: eval an acme command from a script
 * <https://github.com/mkmik/arepa> ⭐ 7 | 🐛 3 | 🌐 Go | 📅 2025-01-28: Waits until any file belonging to the current project and required by the Go package in the current directory changes.
@@ -43,4 +43,4 @@ A curated list of resources for the plan9 acme editor.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
