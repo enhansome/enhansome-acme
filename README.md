@@ -21,7 +21,7 @@ A curated list of resources for the plan9 acme editor.
 
 ### Rust
 
-* <https://github.com/mjibson/acre> ⭐ 40 | 🐛 3 | 🌐 Rust | 📅 2022-10-15: a langserver client for acme in Rust.
+* <https://github.com/mjibson/acre> ⭐ 39 | 🐛 3 | 🌐 Rust | 📅 2022-10-15: a langserver client for acme in Rust.
 
 ### Clojure
 
@@ -43,4 +43,4 @@ A curated list of resources for the plan9 acme editor.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
