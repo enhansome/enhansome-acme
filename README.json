@@ -291,7 +291,7 @@
                 "id": 213971131,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-30T08:34:47Z",
+                "last_commit": "2026-10-13T02:11:16Z",
                 "open_issues": 7,
                 "owner": "mkmik",
                 "repo": "acmeclj",
@@ -432,7 +432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T21:45:24.774Z",
+    "last_updated": "2026-10-13T19:52:57.108Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for the plan9 acme editor",
