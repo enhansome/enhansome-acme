@@ -45,7 +45,7 @@
             "open_issues": 0,
             "owner": "sminez",
             "repo": "acme-corp",
-            "stars": 44,
+            "stars": 43,
             "topics": [
               "acme",
               "plan9",
@@ -432,7 +432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T16:34:22.418Z",
+    "last_updated": "2026-10-19T19:21:30.991Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for the plan9 acme editor",
@@ -444,7 +444,7 @@
       "open_issues": 0,
       "owner": "mkmik",
       "repo": "awesome-acme",
-      "stars": 67,
+      "stars": 66,
       "topics": [
         "acme",
         "acme-editor",
