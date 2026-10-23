@@ -187,7 +187,7 @@
                 "open_issues": 51,
                 "owner": "rogpeppe",
                 "repo": "godef",
-                "stars": 674,
+                "stars": 675,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:04:03.733Z"
@@ -432,7 +432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T18:01:15.386Z",
+    "last_updated": "2026-10-23T17:53:35.081Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for the plan9 acme editor",
