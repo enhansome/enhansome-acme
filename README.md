@@ -39,8 +39,8 @@ A curated list of resources for the plan9 acme editor.
 
 ## Notes
 
-* <https://github.com/evbogdanov/acme> ⭐ 309 | 🐛 0 | 🌐 Shell | 📅 2022-04-23: A collection of Acme notes and scripts
+* <https://github.com/evbogdanov/acme> ⭐ 310 | 🐛 0 | 🌐 Shell | 📅 2022-04-23: A collection of Acme notes and scripts
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._

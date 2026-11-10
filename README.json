@@ -413,7 +413,7 @@
                 "open_issues": 0,
                 "owner": "evbogdanov",
                 "repo": "acme",
-                "stars": 309,
+                "stars": 310,
                 "topics": [
                   "acme",
                   "editor",
@@ -432,7 +432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T23:00:24.469Z",
+    "last_updated": "2026-11-10T20:28:50.947Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for the plan9 acme editor",
