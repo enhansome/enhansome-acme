@@ -73,7 +73,7 @@
             "open_issues": 0,
             "owner": "ChristopherSegale",
             "repo": "match-paren",
-            "stars": 10,
+            "stars": 9,
             "topics": []
           },
           "first_seen": "2026-08-28T23:04:03.733Z"
@@ -432,7 +432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T20:52:13.300Z",
+    "last_updated": "2026-11-13T20:30:31.864Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for the plan9 acme editor",
