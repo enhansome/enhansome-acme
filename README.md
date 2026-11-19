@@ -15,7 +15,7 @@ A curated list of resources for the plan9 acme editor.
 
 ### Go
 
-* <https://github.com/rogpeppe/godef> ⭐ 676 | 🐛 51 | 🌐 Go | 📅 2026-08-24: Print where symbols are defined in Go source code
+* <https://github.com/rogpeppe/godef> ⭐ 675 | 🐛 51 | 🌐 Go | 📅 2026-08-24: Print where symbols are defined in Go source code
 * <https://github.com/davidrjenni/A> ⚠️ Archived: Go tools for acme
 * <https://github.com/mkmik/waigo> ⭐ 5 | 🐛 1 | 🌐 Go | 📅 2025-01-28: Waits until any file belonging to the current project and required by the Go package in the current directory changes.
 
@@ -39,8 +39,8 @@ A curated list of resources for the plan9 acme editor.
 
 ## Notes
 
-* <https://github.com/evbogdanov/acme> ⭐ 310 | 🐛 0 | 🌐 Shell | 📅 2022-04-23: A collection of Acme notes and scripts
+* <https://github.com/evbogdanov/acme> ⭐ 309 | 🐛 0 | 🌐 Shell | 📅 2022-04-23: A collection of Acme notes and scripts
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
